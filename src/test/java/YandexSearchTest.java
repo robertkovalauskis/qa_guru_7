@@ -12,7 +12,7 @@ public class YandexSearchTest {
     static void setup() {
         Configuration.startMaximized = true;
     }
-
+//
     @Test
     void yandexTest() {
         open("https://yandex.ru/");
